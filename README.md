@@ -101,6 +101,3 @@ flowchart LR
 - This repository is organised for portfolio presentation, with source files and project files separated from generated build artifacts.
 - The included PDF report provides additional background, implementation notes, and submission context.
 
-## CV-Friendly Summary
-
-Designed and implemented a dual-microcontroller elevator control prototype in Embedded C using AVR hardware. Built a state-driven control system with keypad input, LCD feedback, emergency handling, and I2C-based coordination between a main controller and a peripheral slave responsible for LEDs and buzzer output.
